@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 24 08:18:56 2020
 
-@author: adity
+@author: aditi devgan
 """
 
 def display_board(board): 
